@@ -1,0 +1,125 @@
+@media (min-width:1201px){
+    /* .menu-orange-div{
+        top:100%;
+    } */
+}
+
+@media (min-width:1025px) and  (max-width:1200px) {
+    /* .menu-orange-div{
+        top:150%;
+    } */
+
+    /* asian-food */
+    
+}
+
+@media (min-width:769px) and (max-width:1024px){
+    .top-banner h1{
+        font-size: 3rem;
+    }
+    /* .menu-orange-div{
+        top:80%;
+    }
+    .menu-text h1{
+        font-size: 4em;
+    }
+    .menu-text p{
+        font-size: 1em;
+        line-height: 1;
+    } */
+
+    /* cooking-part */
+    .cooking-text-white h2{
+        padding: 0px 25px 0px 50px;
+    }
+    .cooking-text-black h2{
+        padding: 0px 25px 0px 50px;
+    }
+    .cooking-text-orange h2{
+        padding: 0px 25px 0px 50px;
+    }
+
+    
+}
+@media (min-width:481px) and (max-width:768px){
+    /* .menu-orange-div{
+        top:95%;
+    }
+    .menu-text h1{
+        font-size: 4em;
+    }
+    .menu-text p{
+        font-size: 1em;
+        line-height: 1;
+    } */
+
+    /* menu */
+    .menu-text h1{
+        font-size: 4em;
+    }
+    .menu-text p{
+        font-size: 1em;
+        line-height: normal;
+        font-weight: none;
+    }
+    .menu-text a{
+        padding: 0;
+        line-height: normal;
+    }
+    .menu-black-div{
+        margin: 0;
+    }
+
+
+    /* cooking part */
+    .cooking-text-white h2{
+        padding: 0px 25px 0px 50px;
+    }
+    .cooking-text-black h2{
+        padding: 0px 25px 0px 50px;
+    }
+    .cooking-text-orange h2{
+        padding: 0px 25px 0px 50px;
+    }
+
+
+    /* asian-food */
+    .asian-food-text-left h2{
+        font-size: 4em;
+    }
+    .asian-food-text-right h2{
+        font-size: 4em;
+    }
+
+}
+
+@media (min-width:320px) and (max-width:480px) {
+    .top-banner h1{
+        font-size: 3rem;
+    }
+    /* .menu-orange-div{
+        top:235%;
+    } */
+
+    /* asian-food */
+    .asian-food-text-left h2{
+        font-size: 4em;
+    }
+    .asian-food-text-right h2{
+        font-size: 4em;
+    }
+    
+}
+@media(max-width:319px){
+    .top-banner h1{
+        font-size: 2rem;
+    }
+
+
+    /* .menu-text h1{
+        font-size: 4em;
+    }
+    .menu-orange-div{
+        top:280%;
+    } */
+}
